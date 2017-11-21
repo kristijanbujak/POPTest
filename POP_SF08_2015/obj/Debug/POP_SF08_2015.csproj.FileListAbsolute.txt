@@ -1,0 +1,7 @@
+C:\Users\Cile\source\repos\POP_SF08_2015\POP_SF08_2015\bin\Debug\POP_SF08_2015.exe.config
+C:\Users\Cile\source\repos\POP_SF08_2015\POP_SF08_2015\bin\Debug\POP_SF08_2015.exe
+C:\Users\Cile\source\repos\POP_SF08_2015\POP_SF08_2015\bin\Debug\POP_SF08_2015.pdb
+C:\Users\Cile\source\repos\POP_SF08_2015\POP_SF08_2015\obj\Debug\POP_SF08_2015.csprojResolveAssemblyReference.cache
+C:\Users\Cile\source\repos\POP_SF08_2015\POP_SF08_2015\obj\Debug\POP_SF08_2015.csproj.CoreCompileInputs.cache
+C:\Users\Cile\source\repos\POP_SF08_2015\POP_SF08_2015\obj\Debug\POP_SF08_2015.exe
+C:\Users\Cile\source\repos\POP_SF08_2015\POP_SF08_2015\obj\Debug\POP_SF08_2015.pdb
